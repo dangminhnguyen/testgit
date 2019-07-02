@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         
         
         print("nguyendang171")
+        print("nguyendan3232323232")
+
         
         // Do any additional setup after loading the view, typically from a nib.
     }
